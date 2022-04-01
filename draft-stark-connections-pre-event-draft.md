@@ -3,7 +3,7 @@ title: "Connections Pre-Event Practice IETF Draft"
 abbrev: "Pre-Event Practice Draft"
 category: info
 
-docname: draft-stark-connections-ietf-draft-latest
+docname: draft-stark-connections-pre-event-draft-latest
 v: 3
 area: CONNECTIONS
 workgroup: PRE-EVENT
