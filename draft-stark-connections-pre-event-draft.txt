@@ -4,17 +4,24 @@
 
 PRE-EVENT                                                       B. Stark
 Internet-Draft                                            None (Retired)
-Intended status: Informational                              1 April 2022
-Expires: 3 October 2022
+Intended status: Informational                              2 April 2022
+Expires: 4 October 2022
 
 
                Connections Pre-Event Practice IETF Draft
-               draft-stark-connections-ietf-draft-latest
+             draft-stark-connections-pre-event-draft-latest
 
 Abstract
 
    Connections participants would like some simple instruction in
    creating IETF drafts.  This draft tries to provide that.
+
+Discussion Venues
+
+   This note is to be removed before publishing as an RFC.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/bhstark2/connections-practice-draft.
 
 Status of This Memo
 
@@ -31,7 +38,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 3 October 2022.
+   This Internet-Draft will expire on 4 October 2022.
 
 Copyright Notice
 
@@ -91,16 +98,16 @@ Table of Contents
 
    Everyone needs a GitHub account to contribute to a draft being
    written in GitHub.  To set up a GH account, go to https://github.com/
-   and enter a preferred username, the email address you want to
-   associate with the account (personal or work, depending on
-   preferences and your corporate policies), and a password.  GH will
-   impose username uniqueness and password strength.
+   (https://github.com/) and enter a preferred username, the email
+   address you want to associate with the account (personal or work,
+   depending on preferences and your corporate policies), and a
+   password.  GH will impose username uniqueness and password strength.
 
 3.2.  Signing in to GH
 
-   The https://github.com/ page defaults to "Sign Up".  Click "Sign In"
-   at the upper right to get the "Sign In" page if you already have an
-   account.
+   The https://github.com/ (https://github.com/) page defaults to "Sign
+   Up".  Click "Sign In" at the upper right to get the "Sign In" page if
+   you already have an account.
 
 4.  Topics we will cover
 
@@ -113,7 +120,8 @@ Table of Contents
    draft.
 
    Start from: https://github.com/martinthomson/i-d-
-   template/blob/main/doc/TEMPLATE.md
+   template/blob/main/doc/TEMPLATE.md (https://github.com/martinthomson/
+   i-d-template/blob/main/doc/TEMPLATE.md)
 
    Consider bookmarking this.  All other steps flow from here.
 
@@ -184,25 +192,28 @@ Table of Contents
    "standard" (i.e., there are many markdown standards).  Most have
    similar (but not identical) syntax rules.
 
-   The template uses kramdown-rfc: https://github.com/cabo/kramdown-rfc.
-   There is another flavor of markdown that also has support for RFC
-   metadata.  But kramdown-rfc is well-supported for IETF drafts, works
-   great, is easy to use and learn, and the template is already
-   formatted for it.
+   The template uses kramdown-rfc: https://github.com/cabo/kramdown-rfc
+   (https://github.com/cabo/kramdown-rfc).  There is another flavor of
+   markdown that also has support for RFC metadata.  But kramdown-rfc is
+   well-supported for IETF drafts, works great, is easy to use and
+   learn, and the template is already formatted for it.
 
 4.6.  Basic markdown syntax
 
-   See https://kramdown.gettalong.org/syntax.html#structural-elements.
+   See https://kramdown.gettalong.org/syntax.html#structural-elements
+   (https://kramdown.gettalong.org/syntax.html#structural-elements).
    But the main thing you need to know is to put blank lines between
    paragraphs.  There are 2 header styles supported.  Pick one and be
    consistent.
 
 4.7.  IETF metadata
 
-   See https://github.com/cabo/kramdown-rfc#the-yaml-header for the
-   draft document metadata (draft title, authors, date, etc.).
+   See https://github.com/cabo/kramdown-rfc#the-yaml-header
+   (https://github.com/cabo/kramdown-rfc#the-yaml-header) for the draft
+   document metadata (draft title, authors, date, etc.).
 
-   See https://github.com/cabo/kramdown-rfc#references for formatting
+   See https://github.com/cabo/kramdown-rfc#references
+   (https://github.com/cabo/kramdown-rfc#references) for formatting
    references.  Referencing IETF RFCs and drafts is incredibly easy,
    thanks to the great tools that make magic happen behind the scenes.
 
@@ -214,7 +225,7 @@ Table of Contents
 
 5.  Security Considerations
 
-   TUse GitHub repository Settings to secure access to your draft.  You
+   Use GitHub repository Settings to secure access to your draft.  You
    can even make it private, if you don't want anyone to see it.  Be
    careful doing that, though, because GH sets a max storage limit on
    private repos.
