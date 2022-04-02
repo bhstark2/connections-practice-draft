@@ -39,11 +39,11 @@ Connections participants would like some simple instruction in creating IETF dra
 
 ## Signing up for a GitHub (GH) account
 
-Everyone needs a GitHub account to contribute to a draft being written in GitHub. To set up a GH account, go to https://github.com/ and enter a preferred username, the email address you want to associate with the account (personal or work, depending on preferences and your corporate policies), and a password. GH will impose username uniqueness and password strength.
+Everyone needs a GitHub account to contribute to a draft being written in GitHub. To set up a GH account, go to <https://github.com/> and enter a preferred username, the email address you want to associate with the account (personal or work, depending on preferences and your corporate policies), and a password. GH will impose username uniqueness and password strength.
 
 ## Signing in to GH
 
-The https://github.com/ page defaults to "Sign Up". Click "Sign In" at the upper right to get the "Sign In" page if you already have an account.
+The <https://github.com/> page defaults to "Sign Up". Click "Sign In" at the upper right to get the "Sign In" page if you already have an account.
 
 # Topics we will cover
 
@@ -53,7 +53,7 @@ This will set up a repository and draft template for automated IETF markdown -> 
 
 Note: Only one person needs to do this, and not all authors of a draft.
 
-Start from: https://github.com/martinthomson/i-d-template/blob/main/doc/TEMPLATE.md
+Start from: <https://github.com/martinthomson/i-d-template/blob/main/doc/TEMPLATE.md>
 
 Consider bookmarking this. All other steps flow from here.
 
@@ -86,17 +86,17 @@ If you want to work on the Pull Request (PR) over time or provide additional edi
 
 There are many flavors of markdown. There is no single markdown "standard" (i.e., there are many markdown standards). Most have similar (but not identical) syntax rules.
 
-The template uses kramdown-rfc: https://github.com/cabo/kramdown-rfc. There is another flavor of markdown that also has support for RFC metadata. But kramdown-rfc is well-supported for IETF drafts,  works great, is easy to use and learn, and the template is already formatted for it.
+The template uses kramdown-rfc: <https://github.com/cabo/kramdown-rfc>. There is another flavor of markdown that also has support for RFC metadata. But kramdown-rfc is well-supported for IETF drafts,  works great, is easy to use and learn, and the template is already formatted for it.
 
 ## Basic markdown syntax
 
-See https://kramdown.gettalong.org/syntax.html#structural-elements. But the main thing you need to know is to put blank lines between paragraphs. There are 2 header styles supported. Pick one and be consistent.
+See <https://kramdown.gettalong.org/syntax.html#structural-elements>. But the main thing you need to know is to put blank lines between paragraphs. There are 2 header styles supported. Pick one and be consistent.
 
 ## IETF metadata
 
-See https://github.com/cabo/kramdown-rfc#the-yaml-header for the draft document metadata (draft title, authors, date, etc.).
+See <https://github.com/cabo/kramdown-rfc#the-yaml-header> for the draft document metadata (draft title, authors, date, etc.).
 
-See https://github.com/cabo/kramdown-rfc#references for formatting references. Referencing IETF RFCs and drafts is incredibly easy, thanks to the great tools that make magic happen behind the scenes.
+See <https://github.com/cabo/kramdown-rfc#references> for formatting references. Referencing IETF RFCs and drafts is incredibly easy, thanks to the great tools that make magic happen behind the scenes.
 
 ## Generating the xml, txt, and html
 
@@ -104,7 +104,7 @@ This all happens like magic with every merged pull request, thanks to the automa
 
 # Security Considerations
 
-TUse GitHub repository Settings to secure access to your draft. You can even make it private, if you don't want anyone to see it. Be careful doing that, though, because GH sets a max storage limit on private repos.
+Use GitHub repository Settings to secure access to your draft. You can even make it private, if you don't want anyone to see it. Be careful doing that, though, because GH sets a max storage limit on private repos.
 
 
 # IANA Considerations
