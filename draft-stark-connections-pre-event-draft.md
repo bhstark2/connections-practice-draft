@@ -39,7 +39,7 @@ Connections participants would like some simple instruction in creating IETF dra
 
 ## Signing up for a GitHub (GH) account
 
-Everyone needs a GitHub account to contribute to a draft being written in GitHub. To set up a GH account, go to <https://github.com/> and enter a preferred username, the email address you want to associate with the account (personal or work, depending on preferences and your corporate policies), and a password. GH will impose username uniqueness and password strength.
+People who want to be authors needs a GitHub account to contribute to a draft being written in GitHub. To set up a GH account, go to <https://github.com/> and enter a preferred username, the email address you want to associate with the account (personal or work, depending on preferences and your corporate policies), and a password. GH will impose username uniqueness and password strength.
 
 ## Signing in to GH
 
