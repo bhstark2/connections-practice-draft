@@ -39,11 +39,15 @@ Connections participants would like some simple instruction in creating IETF dra
 
 ## Signing up for a GitHub (GH) account
 
-People who want to be authors needs a GitHub account to contribute to a draft being written in GitHub. To set up a GH account, go to <https://github.com/> and enter a preferred username, the email address you want to associate with the account (personal or work, depending on preferences and your corporate policies), and a password. GH will impose username uniqueness and password strength.
+People who want to be authors needs a GitHub account to contribute to a draft being written in GitHub.
+To set up a GH account, go to <https://github.com/> and enter a preferred username, the email address you
+want to associate with the account (personal or work, depending on preferences and your corporate policies), 
+and a password. GH will impose username uniqueness and password strength.
 
 ## Signing in to GH
 
-The <https://github.com/> page defaults to "Sign Up". Click "Sign In" at the upper right to get the "Sign In" page if you already have an account.
+The <https://github.com/> page defaults to "Sign Up". Click "Sign In" at the 
+upper right to get the "Sign In" page if you already have an account.
 
 # Topics we will cover
 
@@ -57,7 +61,10 @@ Start from: <https://github.com/martinthomson/i-d-template/blob/main/doc/TEMPLAT
 
 Consider bookmarking this. All other steps flow from here.
 
-You should see the rendered README.md below the list of files at this URL. If not, scroll down to it. Do step 1 (including clicking on the link), which says: Create a new repository using the template. Check "Include all branches", or you will need to enable GitHub Pages manually after step 2.
+You should see the rendered README.md below the list of files at this URL. If not, 
+scroll down to it. Do step 1 (including clicking on the link), which says: Create a 
+new repository using the template. Check "Include all branches", or you will need to 
+enable GitHub Pages manually after step 2.
 
 And then do step 2: Rename your draft and add a title.
 
